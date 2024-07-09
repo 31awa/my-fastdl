@@ -1,0 +1,48 @@
+L 07/09/2024 - 06:00:14: SourceMod error session started
+L 07/09/2024 - 06:00:14: Info (map "de_dust2") (file "e:\1\counter-strike global offensive\csgo\addons\sourcemod\logs\errors_20240709.log")
+L 07/09/2024 - 06:00:14: [SM] Fatal error encountered parsing translation file "dropbombdefuse.phrases.txt"
+L 07/09/2024 - 06:00:14: [SM] Error (line 0, column 0): Stream failed to open
+L 07/09/2024 - 06:00:50: [SM] Exception reported: [RankMe] Unable to connect to the database ([2003]: Can't connect to MySQL server on 'localhost' (10061))
+L 07/09/2024 - 06:00:50: [SM] Blaming: kento_rankme.smx
+L 07/09/2024 - 06:00:50: [SM] Call stack trace:
+L 07/09/2024 - 06:00:50: [SM]   [0] SetFailState
+L 07/09/2024 - 06:00:50: [SM]   [1] Line 204, D:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::DB_Connect
+L 07/09/2024 - 06:00:50: [SM]   [2] Line 187, D:\csgoserver\csgo\addons\sourcemod\scripting\kento_rankme.sp::OnConVarChanged_MySQL
+L 07/09/2024 - 06:00:52: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/09/2024 - 06:00:52: [SM] Exception reported: Mapcycle Not Found
+L 07/09/2024 - 06:00:52: [SM] Blaming: nextmap.smx
+L 07/09/2024 - 06:00:52: [SM] Call stack trace:
+L 07/09/2024 - 06:00:52: [SM]   [0] SetFailState
+L 07/09/2024 - 06:00:52: [SM]   [1] Line 142, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/09/2024 - 06:00:52: [SM]   [2] Line 112, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/09/2024 - 06:04:08: [SM] Exception reported: Language phrase "Plugin Announcement" not found (arg 4)
+L 07/09/2024 - 06:04:08: [SM] Blaming: DropBombDefuse.smx
+L 07/09/2024 - 06:04:08: [SM] Call stack trace:
+L 07/09/2024 - 06:04:08: [SM]   [0] VFormat
+L 07/09/2024 - 06:04:08: [SM]   [1] Line 394, E:\Downloads\DropBombDefuse.sp::Announcement
+L 07/09/2024 - 06:04:08: [SM]   [2] Line 134, E:\Downloads\DropBombDefuse.sp::PluginAnnouncement
+L 07/09/2024 - 06:05:45: [SM] Exception reported: Property "m_vecOrigin" not found (entity 375/weaponworldmodel)
+L 07/09/2024 - 06:05:45: [SM] Blaming: DropBombDefuse.smx
+L 07/09/2024 - 06:05:45: [SM] Call stack trace:
+L 07/09/2024 - 06:05:45: [SM]   [0] GetEntPropVector
+L 07/09/2024 - 06:05:45: [SM]   [1] Line 426, E:\Downloads\DropBombDefuse.sp::IsTargetInSightRange
+L 07/09/2024 - 06:05:45: [SM]   [2] Line 177, E:\Downloads\DropBombDefuse.sp::OnPlayerRunCmd
+L 07/09/2024 - 06:05:47: [SM] Exception reported: Property "m_vecOrigin" not found (entity 375/weaponworldmodel)
+L 07/09/2024 - 06:05:47: [SM] Blaming: DropBombDefuse.smx
+L 07/09/2024 - 06:05:47: [SM] Call stack trace:
+L 07/09/2024 - 06:05:47: [SM]   [0] GetEntPropVector
+L 07/09/2024 - 06:05:47: [SM]   [1] Line 426, E:\Downloads\DropBombDefuse.sp::IsTargetInSightRange
+L 07/09/2024 - 06:05:47: [SM]   [2] Line 177, E:\Downloads\DropBombDefuse.sp::OnPlayerRunCmd
+L 07/09/2024 - 06:05:47: [SM] Exception reported: Property "m_vecOrigin" not found (entity 375/weaponworldmodel)
+L 07/09/2024 - 06:05:47: [SM] Blaming: DropBombDefuse.smx
+L 07/09/2024 - 06:05:47: [SM] Call stack trace:
+L 07/09/2024 - 06:05:47: [SM]   [0] GetEntPropVector
+L 07/09/2024 - 06:05:47: [SM]   [1] Line 426, E:\Downloads\DropBombDefuse.sp::IsTargetInSightRange
+L 07/09/2024 - 06:05:47: [SM]   [2] Line 177, E:\Downloads\DropBombDefuse.sp::OnPlayerRunCmd
+L 07/09/2024 - 06:07:28: [SM] Exception reported: Language phrase "Plugin Announcement" not found (arg 4)
+L 07/09/2024 - 06:07:28: [SM] Blaming: DropBombDefuse.smx
+L 07/09/2024 - 06:07:28: [SM] Call stack trace:
+L 07/09/2024 - 06:07:28: [SM]   [0] VFormat
+L 07/09/2024 - 06:07:28: [SM]   [1] Line 394, E:\Downloads\DropBombDefuse.sp::Announcement
+L 07/09/2024 - 06:07:28: [SM]   [2] Line 134, E:\Downloads\DropBombDefuse.sp::PluginAnnouncement
+L 07/09/2024 - 06:09:16: Error log file session closed.

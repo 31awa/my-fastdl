@@ -1,0 +1,143 @@
+L 07/07/2024 - 07:38:37: SourceMod log file session started (file "e:\1\counter-strike global offensive\migi\csgo\addons\sourcemod\logs\L20240707.log") (Version "1.11.0.6968")
+L 07/07/2024 - 07:38:37: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (e:\1\counter-strike global offensive\migi\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/07/2024 - 07:38:37: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/07/2024 - 07:38:37: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/07/2024 - 07:40:50: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 07/07/2024 - 07:40:50: [navmesh.smx] Is mesh analyzed: 1
+L 07/07/2024 - 07:40:50: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 07/07/2024 - 07:40:50: [navmesh.smx] Place count: 26
+L 07/07/2024 - 07:40:50: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 07:40:50: [navmesh.smx] Area count: 716
+L 07/07/2024 - 07:40:50: [navmesh.smx] Parsed 716 areas in 0.017726 seconds.
+L 07/07/2024 - 07:40:50: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 07:40:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 07:40:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 07:40:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 18:51:29: SourceMod log file session started (file "e:\1\counter-strike global offensive\csgo\addons\sourcemod\logs\L20240707.log") (Version "1.11.0.6968")
+L 07/07/2024 - 18:51:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (e:\1\counter-strike global offensive\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/07/2024 - 18:51:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/07/2024 - 18:51:29: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/07/2024 - 18:52:01: [navmesh.smx] Found .NAV file in maps\de_cache.nav
+L 07/07/2024 - 18:52:01: [navmesh.smx] Is mesh analyzed: 1
+L 07/07/2024 - 18:52:01: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 481449724; MagicNumber: -17958194
+L 07/07/2024 - 18:52:01: [navmesh.smx] Place count: 23
+L 07/07/2024 - 18:52:01: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 18:52:01: [navmesh.smx] Area count: 664
+L 07/07/2024 - 18:52:01: [navmesh.smx] Parsed 664 areas in 0.015378 seconds.
+L 07/07/2024 - 18:52:01: [navmesh.smx] Ladder count: 1
+L 07/07/2024 - 18:52:01: [navmesh.smx] Parsed 1 ladders in 0.000082 seconds.
+L 07/07/2024 - 18:52:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 18:52:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 18:52:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:17:24: [randomcycle.smx] RandomCycle has chosen ar_monastery for the nextmap.
+L 07/07/2024 - 19:18:08: -------- Mapchange to de_anubis --------
+L 07/07/2024 - 19:18:16: [navmesh.smx] Found .NAV file in maps\de_anubis.nav
+L 07/07/2024 - 19:18:16: [navmesh.smx] Is mesh analyzed: 1
+L 07/07/2024 - 19:18:16: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 330006748; MagicNumber: -17958194
+L 07/07/2024 - 19:18:16: [navmesh.smx] Place count: 28
+L 07/07/2024 - 19:18:16: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:18:16: [navmesh.smx] Area count: 1583
+L 07/07/2024 - 19:18:16: [navmesh.smx] Parsed 1583 areas in 0.104314 seconds.
+L 07/07/2024 - 19:18:16: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:18:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:18:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:18:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:23:26: -------- Mapchange to dz_blacksite --------
+L 07/07/2024 - 19:23:33: [navmesh.smx] Found .NAV file in maps\dz_blacksite.nav
+L 07/07/2024 - 19:23:33: [navmesh.smx] Is mesh analyzed: 0
+L 07/07/2024 - 19:23:33: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 182885092; MagicNumber: -17958194
+L 07/07/2024 - 19:23:33: [navmesh.smx] Place count: 0
+L 07/07/2024 - 19:23:33: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:23:33: [navmesh.smx] Area count: 50726
+L 07/07/2024 - 19:23:33: [navmesh.smx] Parsed 50726 areas in 0.291622 seconds.
+L 07/07/2024 - 19:23:40: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:23:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:23:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:23:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:24:05: [randomcycle.smx] RandomCycle has chosen ar_lunacy for the nextmap.
+L 07/07/2024 - 19:24:30: [SM] Changed map to "ar_lunacy"
+L 07/07/2024 - 19:24:52: -------- Mapchange to ar_lunacy --------
+L 07/07/2024 - 19:24:53: [navmesh.smx] Found .NAV file in maps\ar_lunacy.nav
+L 07/07/2024 - 19:24:53: [navmesh.smx] Is mesh analyzed: 1
+L 07/07/2024 - 19:24:53: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 20066124; MagicNumber: -17958194
+L 07/07/2024 - 19:24:53: [navmesh.smx] Place count: 10
+L 07/07/2024 - 19:24:53: [navmesh.smx] Has unnamed areas: false
+L 07/07/2024 - 19:24:53: [navmesh.smx] Area count: 1342
+L 07/07/2024 - 19:24:53: [navmesh.smx] Parsed 1342 areas in 0.032570 seconds.
+L 07/07/2024 - 19:24:53: [navmesh.smx] Ladder count: 4
+L 07/07/2024 - 19:24:53: [navmesh.smx] Parsed 4 ladders in 0.000018 seconds.
+L 07/07/2024 - 19:24:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:24:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:24:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:25:32: -------- Mapchange to dz_sirocco --------
+L 07/07/2024 - 19:25:35: [navmesh.smx] Found .NAV file in maps\dz_sirocco.nav
+L 07/07/2024 - 19:25:35: [navmesh.smx] Is mesh analyzed: 0
+L 07/07/2024 - 19:25:35: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 227566304; MagicNumber: -17958194
+L 07/07/2024 - 19:25:35: [navmesh.smx] Place count: 0
+L 07/07/2024 - 19:25:35: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:25:35: [navmesh.smx] Area count: 36946
+L 07/07/2024 - 19:25:35: [navmesh.smx] Parsed 36946 areas in 0.230701 seconds.
+L 07/07/2024 - 19:25:41: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:25:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:25:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:25:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:25:58: [randomcycle.smx] RandomCycle has chosen de_chalice for the nextmap.
+L 07/07/2024 - 19:26:22: -------- Mapchange to dz_sirocco --------
+L 07/07/2024 - 19:26:23: [navmesh.smx] Found .NAV file in maps\dz_sirocco.nav
+L 07/07/2024 - 19:26:23: [navmesh.smx] Is mesh analyzed: 0
+L 07/07/2024 - 19:26:23: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 227566304; MagicNumber: -17958194
+L 07/07/2024 - 19:26:23: [navmesh.smx] Place count: 0
+L 07/07/2024 - 19:26:23: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:26:23: [navmesh.smx] Area count: 36946
+L 07/07/2024 - 19:26:24: [navmesh.smx] Parsed 36946 areas in 0.223272 seconds.
+L 07/07/2024 - 19:26:29: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:26:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:26:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:26:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:26:41: [randomcycle.smx] RandomCycle has chosen dz_vineyard for the nextmap.
+L 07/07/2024 - 19:27:04: -------- Mapchange to dz_sirocco --------
+L 07/07/2024 - 19:27:06: [navmesh.smx] Found .NAV file in maps\dz_sirocco.nav
+L 07/07/2024 - 19:27:06: [navmesh.smx] Is mesh analyzed: 0
+L 07/07/2024 - 19:27:06: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 227566304; MagicNumber: -17958194
+L 07/07/2024 - 19:27:06: [navmesh.smx] Place count: 0
+L 07/07/2024 - 19:27:06: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:27:06: [navmesh.smx] Area count: 36946
+L 07/07/2024 - 19:27:06: [navmesh.smx] Parsed 36946 areas in 0.221893 seconds.
+L 07/07/2024 - 19:27:12: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:27:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:27:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:27:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:27:24: [randomcycle.smx] RandomCycle has chosen de_inferno for the nextmap.
+L 07/07/2024 - 19:27:53: -------- Mapchange to dz_blacksite --------
+L 07/07/2024 - 19:27:57: [navmesh.smx] Found .NAV file in maps\dz_blacksite.nav
+L 07/07/2024 - 19:27:57: [navmesh.smx] Is mesh analyzed: 0
+L 07/07/2024 - 19:27:57: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 182885092; MagicNumber: -17958194
+L 07/07/2024 - 19:27:57: [navmesh.smx] Place count: 0
+L 07/07/2024 - 19:27:57: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 19:27:57: [navmesh.smx] Area count: 50726
+L 07/07/2024 - 19:27:58: [navmesh.smx] Parsed 50726 areas in 0.327196 seconds.
+L 07/07/2024 - 19:28:05: [navmesh.smx] Ladder count: 0
+L 07/07/2024 - 19:28:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 19:28:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 19:28:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 19:31:17: Log file closed.
+L 07/07/2024 - 20:55:08: SourceMod log file session started (file "e:\1\counter-strike global offensive\csgo\addons\sourcemod\logs\L20240707.log") (Version "1.11.0.6968")
+L 07/07/2024 - 20:55:08: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (e:\1\counter-strike global offensive\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/07/2024 - 20:55:08: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/07/2024 - 20:55:08: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/07/2024 - 20:55:39: [navmesh.smx] Found .NAV file in maps\de_overpass.nav
+L 07/07/2024 - 20:55:39: [navmesh.smx] Is mesh analyzed: 1
+L 07/07/2024 - 20:55:39: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 60880332; MagicNumber: -17958194
+L 07/07/2024 - 20:55:39: [navmesh.smx] Place count: 26
+L 07/07/2024 - 20:55:39: [navmesh.smx] Has unnamed areas: true
+L 07/07/2024 - 20:55:39: [navmesh.smx] Area count: 1391
+L 07/07/2024 - 20:55:39: [navmesh.smx] Parsed 1391 areas in 0.040962 seconds.
+L 07/07/2024 - 20:55:39: [navmesh.smx] Ladder count: 1
+L 07/07/2024 - 20:55:39: [navmesh.smx] Parsed 1 ladders in 0.000087 seconds.
+L 07/07/2024 - 20:55:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/07/2024 - 20:55:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/07/2024 - 20:55:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/07/2024 - 21:11:54: [funvotes.smx] "松珩qwq<2><STEAM_1:0:176576928><>" initiated an alltalk vote.
+L 07/07/2024 - 21:12:00: [funvotes.smx] Changing alltalk to 1 due to vote.
+L 07/07/2024 - 21:37:10: [randomcycle.smx] RandomCycle has chosen de_shortdust for the nextmap.
+L 07/07/2024 - 21:37:21: Log file closed.

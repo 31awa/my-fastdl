@@ -1,0 +1,16 @@
+L 07/09/2024 - 06:00:12: SourceMod log file session started (file "e:\1\counter-strike global offensive\csgo\addons\sourcemod\logs\L20240709.log") (Version "1.11.0.6968")
+L 07/09/2024 - 06:00:12: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (e:\1\counter-strike global offensive\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/09/2024 - 06:00:12: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/09/2024 - 06:00:12: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/09/2024 - 06:00:46: [navmesh.smx] Found .NAV file in maps\de_dust2.nav
+L 07/09/2024 - 06:00:46: [navmesh.smx] Is mesh analyzed: 1
+L 07/09/2024 - 06:00:46: [navmesh.smx] Nav version: 16; SubVersion: 1 (v10+); BSPSize: 326269520; MagicNumber: -17958194
+L 07/09/2024 - 06:00:46: [navmesh.smx] Place count: 26
+L 07/09/2024 - 06:00:46: [navmesh.smx] Has unnamed areas: true
+L 07/09/2024 - 06:00:46: [navmesh.smx] Area count: 716
+L 07/09/2024 - 06:00:46: [navmesh.smx] Parsed 716 areas in 0.014991 seconds.
+L 07/09/2024 - 06:00:46: [navmesh.smx] Ladder count: 0
+L 07/09/2024 - 06:00:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_eco_limit") (value "3000")
+L 07/09/2024 - 06:00:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/09/2024 - 06:00:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/09/2024 - 06:09:16: Log file closed.

@@ -1,0 +1,314 @@
+//**********************************************  Valid Colors For CSS	*************************************************
+//* 								  https://www.doctormckay.com/morecolors.php 										*
+//***********************************************************************************************************************
+//**********************************************  Valid Colors For CSGO	*************************************************
+//* 								http://i.imgur.com/q2wb8Cu.png (In '\x' Format)										*
+//* 							  https://i.ibb.co/3fGRJbd/index.jpg (In Name Format)									*
+//***********************************************************************************************************************
+"Phrases"
+{
+//**********************************************  Menu Messages	*************************************************
+//---------------------------------------
+//| Don't Use Colors in these Messages! |
+//---------------------------------------
+	
+	
+	"No MVP"
+	{
+		"en"			"No Custom MVP Anthem"
+		"zho"			"無MVP音樂."
+		"pt"			"Nenhum MVP personalizado"
+	}
+	"Not Selected Menu"
+	{
+		"en"			"Not Selected"
+		"zho"			"未选中的"
+		"pt"			"Não selecionado"
+	}
+	"No Premium MVP"
+	{
+		"en"			"Premium MVP Anthems are not Available!"
+		"zho"			"高級 MVP 國歌不可用！"
+		"pt"			"Hinos MVP Premium não estão disponíveis!"
+	}
+	"No MVP Playlist"
+	{
+		"en"			"No MVP Playlist"
+		"zho"			"无 MVP 播放列表"
+		"pt"			"Nenhuma lista de reprodução de MVP"
+	}
+	"Random MVP"
+	{
+		"en"			"Random MVP Anthem Every Time"
+		"zho"			"每次隨機 MVP 國歌"
+		"pt"			"Hino MVP aleatório toda vez"
+	}
+	
+	"Common MVP"
+	{
+		"en"			">> Common MVP Anthems"
+		"zho"			">> 常见的 MVP 赞歌"
+		"pt"			">> Hinos MVP comuns"
+	}
+	
+	"Premium MVP"
+	{
+		"en"			">> Premium MVP Anthems"
+		"zho"			">> 高級 MVP 國歌"
+		"pt"			">> Hinos MVP Premium"
+	}
+	
+	"MVP Playlist"
+	{
+		"en"			">> Choose MVP Playlist"
+		"zho"			">> 选择 MVP 播放列表"
+		"pt"			">> Escolha a lista de reprodução do MVP"
+	}
+	
+	"Player MVP"
+	{
+		"en"			">> Choose the same MVP that another player has"
+		"zho"			">> 選擇與其他玩家相同的 MVP"
+		"pt"			">> Escolha o mesmo MVP que outro jogador tem"
+	}
+	"Preview Menu"
+	{
+		"en"			"Preview this MVP"
+		"zho"			"預覽此 MVP"
+		"pt"			"Visualizar este MVP"
+	}
+	"Create Playlist"
+	{
+		"en"			"Create a New MVP Playlist"
+		"zho"			"创建新的 MVP 播放列表"
+		"pt"			"Crie uma nova lista de reprodução de MVP"
+	}
+	"Disable Playlist"
+	{
+		"en"			"Disable MVP Playlist"
+		"zho"			"禁用 MVP 播放列表"
+		"pt"			"Desativar lista de reprodução MVP"
+	}
+	"Select Menu"
+	{
+		"en"			"Select this MVP"
+		"zho"			"選擇這個 MVP"
+		"pt"			"Selecione este MVP"
+	}
+	"Link Menu"
+	{
+		"en"			"Link of this MVP"
+		"zho"			"這個鏈接 MVP"
+		"pt"			"Link deste MVP"
+	}
+	"Vol Menu Title"
+	{
+		"en"			"Select MVP Anthem Volume"
+		"zho"			"選擇MVP音樂音量"
+		"pt"			"Selecione Volume do MVP"
+	}
+	
+	"MVP Menu Title"
+	{
+		"en"			"Select Your Custom MVP Anthem"
+		"zho"			"選擇你的MVP音樂"
+		"pt"			"Selecione seu MVP"
+	}
+	
+	"Vol Menu Title 2"
+	{
+		"#format"		"{1:s}"
+		"en"			"Select MVP Anthem Volume\nCurrent Volume:{1}\nUse !mvpvol for fine tuning"
+		"zho"			"選擇MVP音樂音量\n目前音量:{1}\n使用 !mvpvol 微調"
+		"pt"			"Selecione Volume do MVP\nVolume Atual: {1}\nDigite: {green}!mvpvol {default}para ajuste do volume"
+	}
+	
+	"Mute"
+	{
+		"en"			"Mute"
+		"zho"			"沉默的"
+		"pt"			"Mudo"
+	}
+	
+	"Yes"
+	{
+		"en"			"Yes"
+		"zho"			"是的"
+		"pt"			"Sim"
+	}
+	
+	"No"
+	{
+		"en"			"No"
+		"zho"			"不"
+		"pt"			"Não"
+	}
+	
+	"Cancel"
+	{
+		"en"			"Cancel"
+		"zho"			"取消"
+		"pt"			"Cancelar"
+	}
+	
+	"Select"
+	{
+		"en"			"Select Playlist"
+		"zho"			"选择播放列表"
+		"pt"			"Selecione a lista de reprodução"
+	}
+	
+	"Edit"
+	{
+		"en"			"Edit Playlist"
+		"zho"			"编辑播放列表"
+		"pt"			"Editar lista de reprodução"
+	}
+	
+	"Delete"
+	{
+		"en"			"Delete Playlist"
+		"zho"			"删除播放列表"
+		"pt"			"Excluir lista de reprodução"
+	}
+	
+	"Reset"
+	{
+		"en"			"Reset All"
+		"zho"			"重置全部"
+		"pt"			"Reiniciar tudo"
+	}
+	
+	"MVP Menu Title 2"
+	{
+		"#format"		"{1:s}"
+		"en"			"Select Your Custom MVP Anthem\nSelected: {1}"
+		"zho"			"選擇你的MVP音樂\n目前音樂:{1}"
+		"pt"			"Selecione seu MVP\nSelecionado:{1}"
+	}
+	
+	"MVP Playlist Menu Title"
+	{
+		"#format"		"{1:s}"
+		"en"			"Select Your MVP Playlist\nSelected: {1}"
+		"zho"			"选择您的 MVP 播放列表\n已选择： {1}"
+		"pt"			"Selecione seu MVP\nSelecionado: {1}"
+	}
+	
+	"MVP Playlist Name Menu Title"
+	{
+		"#format"		"{1:s}"
+		"en"			"Enter the Name of MVP Playlist in chat\nYou Entered: {1}"
+		"zho"			"在聊天中输入 MVP 播放列表的名称\n您输入： {1}"
+		"pt"			"Digite o nome da lista de reprodução do MVP no chat\nVocê digitou: {1}"
+	}
+	
+	"MVP Playlist Setting Menu Title"
+	{
+		"#format"		"{1:s}"
+		"en"			"MVP Playlist Settings\nPlaylist: {1}"
+		"zho"			"MVP 播放列表设置\n播放列表：{1}"
+		"pt"			"Configurações da lista de reprodução do MVP\nLista de reprodução: {1}"
+	}
+	"MVP Edit Menu Title"
+	{
+		"#format"		"{1:s}"
+		"en"			"Select MVPs to Add in Playlist\nTotal Selected MVPs in Playlist: {1}"
+		"zho"			"选择要添加到播放列表中的 MVP\n播放列表中选定的 MVP 总数：{1}"
+		"pt"			"Selecione MVPs para adicionar à lista de reprodução\nTotal de MVPs selecionados na lista de reprodução: {1}"
+	}
+	"MVP Confirm Menu Title"
+	{
+		"en"			"Are You Sure?"
+		"zho"			"你确定吗？"
+		"pt"			"Tem certeza?"
+	}
+	"Setting Menu Title"
+	{
+		"#format"		"{1:s},{2:.2f}"
+		"en"			"MVP Anthem Menu\nSelected:{1}\nVolume: {2}"
+		"zho"			"MVP音樂選單\n目前音樂:{1}\n音量: {2}"
+		"pt"			"Menu MVP\nSelecionado:{1}\nVolume: {2}"
+	}
+//**********************************************  Chat Messages	*************************************************
+
+	"Tag"
+	{
+		"en"			"{darkred}[{lime}★ {orchid}MVP Anthem {lime}★{darkred}]"
+		"zho"			"{darkred}[{lime}★ {orchid}MVP Anthem {lime}★{darkred}]"
+		"pt"			"{darkred}[{lime}★ {orchid}MVP Anthem {lime}★{darkred}]"
+	}
+	"MVP_Hint"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"Playing <font color='#B15BFF'>{1}</font>s MVP Anthem\n<font color='#00FF00'>{2}</font>"
+		"zho"			"正在播放<font color='#B15BFF'>{1}</font> 的MVP音樂\n<font color='#FF0000'>{2}</font>"
+		"pt"			"Tocando <font color='#B15BFF'>{1}</font> MVP\n<font color='#FF0000'>{2}</font>"
+	}
+	
+	"MVP_Chat"
+	{
+		"#format"		"{1:N},{2:s}"
+		"en"			"{default}Playing {lime}{1} {orchid}MVP Anthem: {darkred}{2}"
+		"zho"			"{default}播放{lime}{1} {orchid}MVP Anthem：{darkred}{2}"
+		"pt"			"{default}Tocando {lime}{1} {orchid}MVP Anthem: {darkred}{2}"
+	}
+	
+	"Invalid Name"
+	{
+		"en"			"{darkred}Invalid MVP Playlist Name! {lime}Please Enter Vaild MVP Playlist Name."
+		"zho"			"{darkred}无效的 MVP 播放列表名称！ {lime}请输入有效的 MVP 播放列表名称。"
+		"pt"			"{darkred}Nome da lista de reprodução de MVP inválido! {lime}Insira um nome de lista de reprodução MVP válido."
+	}
+	
+	"No Flag"
+	{
+		"en"			"{default}You {darkred}don't have access {default}to choose this {orchid}MVP Anthem."
+		"zho"			"{default}您{darkred}无权{default}选择此{orchid}MVP Anthem。"
+		"pt"			"{darkred}Você não tem acesso para escolher este {orchid}MVP Anthem."
+	}
+	
+	"Selected"
+	{
+		"#format"		"{1:s}"
+		"en"			"{default}Your {orchid}MVP Anthem {default}is: {darkred}{1}"
+		"zho"			"{default}你的MVP音樂是: {darkred}{1}"
+		"pt"			"{default}Seu MVP {default}é: {darkred}{1}"
+	}
+	
+	"Not Selected"
+	{
+		"en"			"{default}Your {orchid}MVP Anthem {default}is: {darkred}Not Selected"
+		"zho"			"{default}您的 {orchid}MVP Anthem {default}是：{darkred}未选择"
+		"pt"			"{default}Seu {orchid}MVP Anthem {default}é: {darkred}Não selecionado"
+	}
+	
+	"Not Enough MVPs"
+	{
+		"en"			"{darkred}Not Enough MVPs! {default}To select {green}Playlist {default}please make sure you have selected {darkred}Two {default}or {darkred}More {default}MVPs in {green}Playlist."
+		"zho"			"{darkred}没有足够的 MVP！ {default}要选择{green}播放列表{default}请确保您在{green}播放列表中选择了{darkred}两个{default}或{darkred}更多{default}MVP。"
+		"pt"			"{darkred}Não há MVPs suficientes! {default}Para selecionar {green}Playlist {default}certifique-se de ter selecionado {darkred}Dois {default}ou {darkred}Mais {default}MVPs em {green}Playlist."
+	}
+	
+	"Volume 1"
+	{
+		"en"			"{lime}Volume {default}values must be {orchid}0.0 {default}- {orchid}1.0"
+		"zho"			"{default}音量大小限制為 {orchid}0.0 {default}- {orchid}1.0"
+		"pt"			"{lime}Valores {default}do volume devem ser {orchid}0.0 {default}- {orchid}1.0"
+	}
+	
+	"Volume 2"
+	{
+		"#format"		"{1:.2f}"
+		"en"			"{lime}Volume {default}is set to {orchid}{1}"
+		"zho"			"{default}音量設定為 {orchid}{1}"
+		"pt"			"{lime}Volume {default}está definido como {orchid}{1}"
+	}
+	
+	"Disabled"
+	{
+		"en"			"{orchid}MVP {default}plugin is currently {darkred}Disable!"
+		"zho"			"{orchid}MVP {default}插件目前处于{darkred}禁用状态！"
+		"pt"			"{orchid}MVP {default}plugin está atualmente {darkred}Desativado!"
+	}
+}	
